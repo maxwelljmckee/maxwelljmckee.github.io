@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'TDP_dark_background.png',
     title: 'The Democracy Project',
-    info: '',
-    info2: '',
+    info: "The Democracy Project is founded on a desire to answer a few simple questions: why, when we all have computers in our pockets, do we only get to vote every 2-4 years? Why isn't every single issue a referendum issue? And why are there so many roadblocks to civic engagement?",
+    info2: "The Democracy Project tears down the roadblocks by gathering all of the political data you need together in one central hub. When you register with a zip code, you are automatically connected to your state/district's congressional officials.From there, you can follow any active member in the house, senate, or executive branch, reach out to them on any available social or messaging platform, and track how they are voting.In addition, you can search currently active bills in the house and senate and express your views by Upvote/ Downvoting the issues, providing a realtime, direct line of feedback from a representative to their constituency.",
     url: 'https://thedemocracyproject.herokuapp.com/',
     repo: 'https://github.com/maxwelljmckee/TheDemocracyProject', // if no repo, the button will not show up
   },
