@@ -1,0 +1,65 @@
+
+.techstack__container {
+    margin-bottom: 150px;
+}
+
+.techstack__icons {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+
+.techstack__card {
+    width: 160px;
+    height: 200px;
+    margin: 20px;
+
+    /* border: 2px solid #333333; */
+    /* border-radius: 10px; */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.techstack__card h3 {
+    padding-left: 3px;
+    font-size: 20px;
+}
+
+.techstack__card img {
+    width: 150px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+    .techstack__container {
+        margin-bottom: 50px;
+    }
+
+    .techstack__card {
+        width: 80px;
+        height: 100px;
+    }
+
+    .techstack__card img {
+        width: 80px;
+    }
+
+    .techstack__card h3 {
+        display: none;
+    }
+}

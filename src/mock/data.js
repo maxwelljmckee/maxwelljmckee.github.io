@@ -18,17 +18,17 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'Headshot1.jpg',
-  paragraphOne: 'Any time I commit myself to something, whether it be piano performance, rock climbing, or building a cool new application, I do so with 1000% of my being. Life is too short to settle for less.',
-  paragraphTwo: "I am driven by passion and I love to express my creativity. Some of the creations I am most proud of are my national-award-winning string quartet, the school bus tiny-home that I built and lived in for 5 years, and the portfolio below.",
-  paragraphThree: "I'm a compulsive overachiever, empathetic communicator, and perennially cheery presence, prone to sincerity and adventure.",
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne: 'Any time I commit myself to something, whether it be piano performance, rock climbing, or building a cool new application, I do it with 1000% of my focus and determination. Life is too short to settle for less.',
+  paragraphTwo: "I am driven by passion and I love to express my creativity. Some of the creations I am most proud of are my national-award-winning string quartet, the school bus tiny-home that I built and lived in for 5 years, and the portfolio you see below.",
+  paragraphThree: "I'm a compulsive overachiever, empathetic communicator, and perennially cheery presence. Prone to sincerity and adventure.",
+  resume: 'https://docs.google.com/document/d/1_V4RecFe2NIlgiceApAnffAPqevxAH8XPUAtsTCNA3w/edit#heading=h.4kkobv3sgqdy', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'TDP2.png',
+    img: 'TDP_dark_background.png',
     title: 'The Democracy Project',
     info: '',
     info2: '',
@@ -60,7 +60,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: 'https://scarebnb-app.herokuapp.com/',
-    repo: 'https://github.com/ethanswe/Tee-Time', // if no repo, the button will not show up
+    repo: 'https://github.com/maxwelljmckee/scare_bnb', // if no repo, the button will not show up
   },
 ];
 
