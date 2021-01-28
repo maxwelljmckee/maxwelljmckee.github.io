@@ -40,22 +40,6 @@ const TechStack = () => {
       iconUrl: 'https://flask-sqlalchemy.palletsprojects.com/en/2.x/_static/flask-sqlalchemy-logo.png'
     },
     {
-      name: 'HTML5',
-      iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png'
-    },
-    {
-      name: 'CSS3',
-      iconUrl: 'https://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png'
-    },
-    {
-      name: 'Pug',
-      iconUrl: 'https://content.nexza.com/stack-items/pug.png'
-    },
-    {
-      name: 'Jinja',
-      iconUrl: 'https://ucarecdn.com/cc9f09f8-2cb0-4c4c-9eb9-07e60915c1ea/'
-    },
-    {
       name: 'PostgreSQL',
       iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png'
     },
@@ -70,6 +54,22 @@ const TechStack = () => {
     {
       name: 'Git',
       iconUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png'
+    },
+    {
+      name: 'HTML5',
+      iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png'
+    },
+    {
+      name: 'CSS3',
+      iconUrl: 'https://cdn.345tool.com/public/logos/css-formatter-logo.png'
+    },
+    {
+      name: 'Pug',
+      iconUrl: 'https://content.nexza.com/stack-items/pug.png'
+    },
+    {
+      name: 'Jinja',
+      iconUrl: 'https://ucarecdn.com/cc9f09f8-2cb0-4c4c-9eb9-07e60915c1ea/'
     },
   ]
 
