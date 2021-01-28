@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'VerityNews.png',
     title: 'Verity News',
-    info: 'Verity News is a ',
+    info: 'Verity News is combats the modern information/disinformation crisis by allowing user to customize their information diets. Users can choose from a variety of publications, organize them into custom Channels, and search through publication sources and article headlines based on a variety of filtering parameters.',
     info2: '',
     url: 'https://verity-news.herokuapp.com/',
     repo: 'https://github.com/maxwelljmckee/Verity', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'TeeTime.png',
     title: 'Tee Time',
-    info: '',
+    info: 'TeeTime is the social network for golfers! With TeeTime, users can create and join events to play and meet new golf partners.',
     info2: '',
     url: 'https://tee-time-aa.herokuapp.com/',
     repo: 'https://github.com/ethanswe/Tee-Time', // if no repo, the button will not show up
@@ -57,7 +57,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'scarebnb.png',
     title: 'scarebnb',
-    info: '',
+    info: 'Scarebnb is a haunted-house themed airbnb clone. With scarebnb, users get their spook on with overnight stays at known haunted establishments.',
     info2: '',
     url: 'https://scarebnb-app.herokuapp.com/',
     repo: 'https://github.com/maxwelljmckee/scare_bnb', // if no repo, the button will not show up
