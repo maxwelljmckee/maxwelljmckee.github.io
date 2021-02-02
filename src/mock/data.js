@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'Headshot1.jpg',
-  paragraphOne: 'Any time I commit myself to something, whether it be piano performance, rock climbing, or building a cool new application, I do it with 1000% of my focus and determination. Life is too short to settle for less.',
+  paragraphOne: 'Any time I commit myself to something, whether it be piano performance, rock climbing, or building a cool new application, I do it with 100% of my focus and determination. Life is too short to settle for less.',
   paragraphTwo: "I am driven by passion and I love to express my creativity. Some of the creations I am most proud of are my national-award-winning string quartet, the school bus tiny-home that I built and lived in for 5 years, and the portfolio you see below.",
   paragraphThree: "I'm a compulsive overachiever, empathetic communicator, and perennially cheery presence. Prone to sincerity and adventure.",
-  resume: 'https://docs.google.com/document/d/1_V4RecFe2NIlgiceApAnffAPqevxAH8XPUAtsTCNA3w/edit#heading=h.4kkobv3sgqdy', // if no resume, the button will not show up
+  resume: 'https://docs.google.com/document/d/e/2PACX-1vTCSZxmPXuHjO77nt3JC6Y_zMOj1VU-b-e7TfhtQWE6kkfoc9thgg3bYZ6Qp18FQVDgUycc8bYCx7fy/pub', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'VerityNews.png',
     title: 'Verity News',
-    info: 'Verity News is combats the modern information/disinformation crisis by allowing user to customize their information diets. Users can choose from a variety of publications, organize them into custom Channels, and search through publication sources and article headlines based on a variety of filtering parameters.',
+    info: 'Verity News combats the modern disinformation crisis by allowing user to customize their information diets. Users can choose from a variety of publications, organize them into custom Channels, and search through publication sources and article headlines based on a variety of filtering parameters.',
     info2: '',
     url: 'https://verity-news.herokuapp.com/',
     repo: 'https://github.com/maxwelljmckee/Verity', // if no repo, the button will not show up
