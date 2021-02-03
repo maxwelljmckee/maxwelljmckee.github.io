@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'Headshot1.jpg',
   paragraphOne: 'Any time I commit myself to something, whether it be piano performance, rock climbing, or building a cool new application, I do it with 100% of my focus and determination. Life is too short to settle for less.',
-  paragraphTwo: "I am driven by passion and I love to express my creativity. Some of the creations I am most proud of are my national-award-winning string quartet, the school bus tiny-home that I built and lived in for 5 years, and the portfolio you see below.",
+  paragraphTwo: "I am driven by passion and I love to express my creativity. Some of the creations I am most proud of are my award-winning string quartet, the school bus tiny-home that I built and lived in for 5 years, and the portfolio you see below.",
   paragraphThree: "I'm a compulsive overachiever, empathetic communicator, and perennially cheery presence. Prone to sincerity and adventure.",
   resume: 'https://docs.google.com/document/d/e/2PACX-1vTCSZxmPXuHjO77nt3JC6Y_zMOj1VU-b-e7TfhtQWE6kkfoc9thgg3bYZ6Qp18FQVDgUycc8bYCx7fy/pub', // if no resume, the button will not show up
 };
