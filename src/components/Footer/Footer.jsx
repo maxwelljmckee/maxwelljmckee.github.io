@@ -40,7 +40,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <i className="fab fa-angellist fa-inverse"></i>
+              <img src='https://aux.iconspalace.com/uploads/angellist-icon-256.png' alt='angellist logo' />
             </a>
         </div>
         <hr />
