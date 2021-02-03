@@ -35,6 +35,13 @@ const Footer = () => {
                 </a>
               );
             })}
+            <a
+              href={'https://angel.co/u/maxwell-mckee'}
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+            <i className="fab fa-angellist"></i>
+            </a>
         </div>
         <hr />
         <p className="footer__text">
