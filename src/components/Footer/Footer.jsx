@@ -40,7 +40,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <img src='https://aux.iconspalace.com/uploads/angellist-icon-256.png' alt='angellist logo' />
+              <img src='https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-512.png' alt='angellist logo' />
             </a>
         </div>
         <hr />
