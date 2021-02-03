@@ -40,7 +40,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <i className="fab fa-angellist"></i>
+              <i className="fab fa-angellist fa-inverse"></i>
             </a>
         </div>
         <hr />
