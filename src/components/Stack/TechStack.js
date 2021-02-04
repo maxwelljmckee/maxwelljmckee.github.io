@@ -12,6 +12,10 @@ const TechStack = () => {
       iconUrl: 'https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png'
     },
     {
+      name: 'Python',
+      iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png'
+    },
+    {
       name: 'React',
       iconUrl: 'https://ionicframework.com/docs/assets/icons/logo-react-icon.png'
     },
@@ -26,10 +30,6 @@ const TechStack = () => {
     {
       name: 'Sequelize',
       iconUrl: 'https://cdn.worldvectorlogo.com/logos/sequelize.svg'
-    },
-    {
-      name: 'Python',
-      iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png'
     },
     {
       name: 'Flask',
