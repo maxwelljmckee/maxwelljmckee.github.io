@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'The Democracy Project',
     info: "The Democracy Project is your hub for political engagement. When you register with a zip code, you are automatically connected to your state/district congressional officials. From there, you can follow other members and active bills in congress. Realtime voting on the people and the issues provides direct feedback, holding power to account.",
     info2: '',
-    url: 'https://thedemocracyproject.herokuapp.com/',
+    url: 'https://vibrant-volhard-154ca2.netlify.app/',
     repo: 'https://github.com/maxwelljmckee/TheDemocracyProject', // if no repo, the button will not show up
   },
   {
