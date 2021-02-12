@@ -35,13 +35,13 @@ const Footer = () => {
                 </a>
               );
             })}
-            <a
+            {/* <a
               href={'https://angel.co/u/maxwell-mckee'}
               rel="noopener noreferrer"
               target="_blank"
             >
               <img src='https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-512.png' alt='angellist logo' />
-            </a>
+            </a> */}
         </div>
         <hr />
         <p className="footer__text">

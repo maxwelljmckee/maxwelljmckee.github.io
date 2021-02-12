@@ -94,6 +94,11 @@ export const footerData = {
       name: 'github',
       url: 'https://github.com/maxwelljmckee',
     },
+    {
+      id: nanoid(),
+      name: 'angellist',
+      url: 'https://angel.co/u/maxwell-mckee',
+    },
   ],
 };
 
