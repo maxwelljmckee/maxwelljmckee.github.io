@@ -61,7 +61,7 @@ const TechStack = () => {
     },
     {
       name: 'CSS3',
-      iconUrl: 'https://cdn.345tool.com/public/logos/css-formatter-logo.png'
+      iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFf8X04KIGwOkSrsJ1V7F-3J4iYT5fpS3AwQ&usqp=CAU'
     },
     {
       name: 'Pug',

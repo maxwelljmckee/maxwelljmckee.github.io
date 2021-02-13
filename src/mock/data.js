@@ -47,7 +47,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'TeeTime.png',
-    title: 'Tee Time',
+    title: 'TeeTime',
     info: 'TeeTime is the social network for golfers! With TeeTime, users can create and join events to play and meet new golf partners.',
     info2: '',
     url: 'https://tee-time-aa.herokuapp.com/',
