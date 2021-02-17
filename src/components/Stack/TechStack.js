@@ -61,7 +61,7 @@ const TechStack = () => {
     },
     {
       name: 'CSS3',
-      iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFf8X04KIGwOkSrsJ1V7F-3J4iYT5fpS3AwQ&usqp=CAU'
+      iconUrl: 'https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png'
     },
     {
       name: 'Pug',
