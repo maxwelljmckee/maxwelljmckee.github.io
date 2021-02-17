@@ -61,7 +61,7 @@ const TechStack = () => {
     },
     {
       name: 'CSS3',
-      iconUrl: 'https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png'
+      iconUrl: 'https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png'
     },
     {
       name: 'Pug',
